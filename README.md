@@ -1,6 +1,3 @@
-
-
-```markdown
 # Search in Random Array
 
 This is a simple C++ console application that generates an array of random integers and allows the user to search for a number within the array.
@@ -53,3 +50,6 @@ g++ -o search_array main.cpp
 ./search_array
 ```
 
+## License
+
+This project is for educational purposes only. No license applied.
